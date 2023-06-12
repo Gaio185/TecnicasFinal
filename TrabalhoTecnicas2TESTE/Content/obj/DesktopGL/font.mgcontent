@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/VISUAL STUDIO/ProjetoFinal/TrabalhoTecnicas2/TrabalhoTecnicas2TESTE/Content/font.spritefont</SourceFile>
+  <SourceTime>2023-06-12T18:07:07.7824895+01:00</SourceTime>
+  <DestFile>D:/VISUAL STUDIO/ProjetoFinal/TrabalhoTecnicas2/TrabalhoTecnicas2TESTE/Content/bin/DesktopGL/font.xnb</DestFile>
+  <DestTime>2023-06-12T22:40:30.7061736+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

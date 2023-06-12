@@ -1,0 +1,372 @@
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.exe
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.deps.json
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.runtimeconfig.json
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.AssemblyReference.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfoInputs.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfo.cs
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CoreCompileInputs.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CopyComplete
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\refint\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.genruntimeconfig.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\ref\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar5.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar6.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\grass.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\slime.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\slime2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\slime3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\slime4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\grass.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar5.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\playerchar6.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\slime.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\slime2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\slime3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\Content\slime4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.exe
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.deps.json
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.runtimeconfig.json
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.AssemblyReference.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfoInputs.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfo.cs
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CoreCompileInputs.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CopyComplete
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\refint\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\TrabalhoTécnicas2.genruntimeconfig.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\TrabalhoTecnicas2\TrabalhoTécnicas2\obj\Debug\net6.0\ref\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\grass.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar5.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar6.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.exe
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.deps.json
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.runtimeconfig.json
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.AssemblyReference.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfoInputs.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfo.cs
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CoreCompileInputs.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CopyComplete
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\refint\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.genruntimeconfig.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\ref\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\font.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\font.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\grass.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar2.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar3.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar4.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar5.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar6.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime2.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime3.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime4.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.exe
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.deps.json
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.runtimeconfig.json
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.AssemblyReference.cache
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfoInputs.cache
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfo.cs
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CoreCompileInputs.cache
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CopyComplete
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\refint\TrabalhoTécnicas2.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.genruntimeconfig.cache
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\ref\TrabalhoTécnicas2.dll
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Rocks.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball2.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball3.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball4.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime2.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime3.xnb
+C:\Users\gaspar\Downloads\TrabalhoTecnicas2-main\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\font.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\grass.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar5.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar6.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Rocks.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.exe
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.deps.json
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.runtimeconfig.json
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.AssemblyReference.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfoInputs.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfo.cs
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CoreCompileInputs.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CopyComplete
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\refint\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.pdb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.genruntimeconfig.cache
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Estável\teste\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2-mainGaspar\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\ref\TrabalhoTécnicas2.dll
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime2.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime3.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime4.xnb
+C:\Users\kadit\OneDrive\Ambiente de Trabalho\Tecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Rocks.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball2.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball3.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball4.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\font.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\grass.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime2.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime3.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime4.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar2.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar3.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar4.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar5.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar6.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Rocks.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime2.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime3.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime4.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.exe
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.deps.json
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.runtimeconfig.json
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.pdb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfo.cs
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CopyComplete
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\refint\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.pdb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.genruntimeconfig.cache
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\ref\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\ataque.ogg
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\musica.ogg
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\musica.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\attackSound.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\ballHurtSound.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\heavySlimeHurtSound.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\hurtSound.xnb
+D:\VISUAL STUDIO\ProjetoFinal\TrabalhoTecnicas2\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slimeHurtSound.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\ataque.ogg
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\attackSound.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball2.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball3.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball4.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\ballHurtSound.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\font.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\grass.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime2.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime3.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime4.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\heavySlimeHurtSound.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\hurtSound.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\musica.ogg
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\musica.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar2.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar3.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar4.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar5.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar6.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Rocks.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime2.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime3.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime4.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slimeHurtSound.xnb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.exe
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.deps.json
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.runtimeconfig.json
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.pdb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfo.cs
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CopyComplete
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\refint\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.pdb
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.genruntimeconfig.cache
+D:\VISUAL STUDIO\Nova pasta\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\ref\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\ataque.ogg
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\attackSound.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball2.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball3.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Ball4.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\ballHurtSound.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\font.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\grass.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime2.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime3.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\HeavySlime4.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\heavySlimeHurtSound.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\hurtSound.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\musica.ogg
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\musica.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar2.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar3.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar4.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar5.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\playerchar6.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\Rocks.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime2.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime3.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slime4.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\Content\slimeHurtSound.xnb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.exe
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.deps.json
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.runtimeconfig.json
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\TrabalhoTécnicas2.pdb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.AssemblyInfo.cs
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.csproj.CopyComplete
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\refint\TrabalhoTécnicas2.dll
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.pdb
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\TrabalhoTécnicas2.genruntimeconfig.cache
+D:\VISUAL STUDIO\TecnicasFinal\TecnicasFinal\TrabalhoTecnicas2TESTE\obj\Debug\net6.0\ref\TrabalhoTécnicas2.dll
