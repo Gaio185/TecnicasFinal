@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1mIwTRSVWKyTCK6h409KOeuj5XjcK9Pddg37gInu7md5w5dmuZS5ZIk71oSeODmRiAfcK5ZQ+vOxBrqK1ckeWg==",
+  "dgSpecHash": "UwKDn9mk2xXHcaXXTzCOBA+8Qv/mTF224vqkcnlpXYFheVWHt2nIlsOSCJyoF3awk1Jmeb8IhROm4XdiDlM3Gw==",
   "success": true,
-  "projectFilePath": "D:\\VISUAL STUDIO\\TecnicasFinal\\TecnicasFinal\\TrabalhoTecnicas2TESTE\\TrabalhoTécnicas2.csproj",
+  "projectFilePath": "C:\\Users\\kadit\\OneDrive\\Ambiente de Trabalho\\superteste\\TecnicasFinal\\TrabalhoTecnicas2TESTE\\TrabalhoTécnicas2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\joaog\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
-    "C:\\Users\\joaog\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+    "C:\\Users\\kadit\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\kadit\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
   ],
   "logs": []
 }

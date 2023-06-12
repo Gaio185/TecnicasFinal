@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/hurtSound.wav</SourceFile>
-  <SourceTime>2023-06-12T22:50:01.4355929+01:00</SourceTime>
-  <DestFile>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/bin/DesktopGL/Content/hurtSound.xnb</DestFile>
-  <DestTime>2023-06-12T23:17:13.1046748+01:00</DestTime>
+  <SourceFile>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/hurtSound.wav</SourceFile>
+  <SourceTime>2023-06-12T23:58:46.0223064+01:00</SourceTime>
+  <DestFile>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/bin/DesktopGL/Content/hurtSound.xnb</DestFile>
+  <DestTime>2023-06-13T00:00:15.3886511+01:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

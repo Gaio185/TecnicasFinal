@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball.png</SourceFile>
-  <SourceTime>2023-06-12T18:07:07.7354785+01:00</SourceTime>
-  <DestFile>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/bin/DesktopGL/Content/Ball.xnb</DestFile>
-  <DestTime>2023-06-12T23:17:12.3475026+01:00</DestTime>
+  <SourceFile>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball.png</SourceFile>
+  <SourceTime>2023-06-12T23:58:45.8676799+01:00</SourceTime>
+  <DestFile>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/bin/DesktopGL/Content/Ball.xnb</DestFile>
+  <DestTime>2023-06-13T00:00:14.8206774+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

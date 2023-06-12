@@ -56,25 +56,25 @@ namespace TrabalhoTécnicas2
             KeyboardState kState = Keyboard.GetState();
             float dt = (float)gameTime.ElapsedGameTime.TotalSeconds;
 
-            if (kState.IsKeyDown(Keys.Right) || kState.IsKeyDown(Keys.D) && position.X < (Game1.Width-radius))
+            if ((kState.IsKeyDown(Keys.Right) || kState.IsKeyDown(Keys.D)) && position.X < (Game1.Width-radius))
             {
                 position.X += speed * dt;
                 direction = Direction.Right;
             }
 
-            if (kState.IsKeyDown(Keys.Left) || kState.IsKeyDown(Keys.A) && position.X > radius)
+            if ((kState.IsKeyDown(Keys.Left) || kState.IsKeyDown(Keys.A)) && position.X > radius)
             {
                 position.X -= speed * dt;
                 direction = Direction.Left;
             }
 
-            if (kState.IsKeyDown(Keys.Down) || kState.IsKeyDown(Keys.S) && position.Y < (Game1.Height - radius))
+            if ((kState.IsKeyDown(Keys.Down) || kState.IsKeyDown(Keys.S)) && position.Y < (Game1.Height - radius))
             {
                 position.Y += speed * dt;
                 direction = Direction.Down;
             }
 
-            if (kState.IsKeyDown(Keys.Up) || kState.IsKeyDown(Keys.W) && position.Y > radius)
+            if ((kState.IsKeyDown(Keys.Up) || kState.IsKeyDown(Keys.W)) && position.Y > radius)
             {
                 position.Y -= speed * dt;
                 direction = Direction.Up;

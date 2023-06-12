@@ -4,33 +4,33 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/attackSound.wav</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball2.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball3.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball4.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/ballHurtSound.wav</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/font.spritefont</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/grass.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/HeavySlime.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/HeavySlime2.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/HeavySlime3.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/HeavySlime4.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/heavySlimeHurtSound.wav</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/hurtSound.wav</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/musica.mp3</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar2.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar3.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar4.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar5.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar6.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Rocks.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slime.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slime2.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slime3.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slime4.png</File>
-    <File>D:/VISUAL STUDIO/TecnicasFinal/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slimeHurtSound.wav</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/attackSound.wav</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball2.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball3.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Ball4.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/ballHurtSound.wav</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/font.spritefont</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/grass.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/HeavySlime.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/HeavySlime2.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/HeavySlime3.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/HeavySlime4.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/heavySlimeHurtSound.wav</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/hurtSound.wav</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/musica.mp3</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar2.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar3.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar4.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar5.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/playerchar6.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/Rocks.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slime.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slime2.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slime3.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slime4.png</File>
+    <File>C:/Users/kadit/OneDrive/Ambiente de Trabalho/superteste/TecnicasFinal/TrabalhoTecnicas2TESTE/Content/slimeHurtSound.wav</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
